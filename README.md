@@ -1,5 +1,5 @@
 # **Claude 国内最新使用指南[2025年4月]**  
-> 更新日期: 2025年4月01日  
+> 更新日期: 2025年4月04日  
 
 ## **什么是 Claude？**
 
@@ -48,7 +48,7 @@ Claude 是由 Anthropic 公司推出的人工智能聊天助手，具备强大�
 | 平台名                     | 支持功能                                           | 网址                                                                                       |  
 |----------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------|  
 | **YiXia AI**               | Claude 3.7 Sonnet 、ChatGPT4o、DeepSeek r1 满血版、AIPPT、DeepSeek V3 0324、联网查询   | [点击访问](https://chat.yixiaai.com)                                                     |  
-| **蓝鲸 AI**               | Claude 3.7 Sonnet、ChatGPT4.0 Turbo、DeepSeek r1满血版、Grok-3            | [点击访问](https://chat.lanjing.ai)                                                      |  
+| **蓝鲸 AI**               | Claude 3.7 Sonnet、ChatGPT4.0 Turbo、DeepSeek r1满血版、Grok-3            | [点击访问](https://chat.chatgpt-chinese.com)                                                      |  
 | **中文Claude 官网**      | 支持 Claude 技术和 GPT 全系列模型                  | [点击访问](https://chatgpt-chinese.com)                                                  |  
 | **AI 智慧岛客户端**         | Claude 和 GPT 系列本地客户端                       | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) |  
 | **微软 Edge 浏览器插件**   | 内置 ChatGPT、Claude 3.7 支持，中文界面，操作简单               | [安装插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) |  
@@ -79,7 +79,7 @@ Claude 的收费模式灵活，分为免费和付费两种：
 ---
 
 ### **2. 国内访问 Claude 的最佳方式是？**
-推荐使用 Claude 镜像平台，如 [YiXia AI](https://chat.yixiaai.com) 或 [蓝鲸 AI](https://chat.lanjing.ai)。
+推荐使用 Claude 镜像平台，如 [YiXia AI](https://chat.yixiaai.com) 或 [蓝鲸 AI](https://chat.chatgpt-chinese.com)。
 
 ---
 
